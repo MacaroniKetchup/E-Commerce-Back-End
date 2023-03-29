@@ -17,7 +17,7 @@ Category.init(
     // category_name will be a sting and cant be null
     category_name:{
       type: DataTypes.STRING,
-      allowNull: false,
+      // allowNull: false,
     }
   },
   {
